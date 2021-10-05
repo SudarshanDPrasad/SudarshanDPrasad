@@ -1,3 +1,7 @@
+
+[![MasterHead](https://www.kritikalvision.ai/wp-content/uploads/2019/10/android-app-development-banner-.jpg)](https://github.com/chekeAditya?tab=repositories)
+
+
 <h1 align="center">Hi 👋, I'm Sudarshan D Prasad</h1>
 <h3 align="center">As a teenager, I always wanted to learn new things every day. In this pursuit, I decided to study civil engineering at Maharaja Institute of Technology in 2016. After I passed out, I joined my father's restaurant business assuming I would meet new people and learn new things. I enjoyed this experience, but unfortunately, we had to close down due to the pandemic. After a few days, I joined Masai Coding School because coding is a challenging job and overcoming such challenges motivates me. My hobbies are playing cricket, football, carrom, and chess. I enjoy riding bikes, and I have done many road trips in and around Karnataka. I enjoy trying out new recipes in my free time. If you would like to know more, reach out to me at sudarshanprasad18@gmail.com</h3>
 
