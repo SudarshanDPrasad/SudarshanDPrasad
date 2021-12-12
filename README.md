@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/dpsudarshan" target="blank"><img src="https://img.shields.io/twitter/follow/dpsudarshan?logo=twitter&style=for-the-badge" alt="dpsudarshan" /></a> </p>
 
-- 🔭 I’m currently working on [Google Meet](https://github.com/MINTU325/GoogleMeet_Clone)
+- 🔭 I’m currently working on [News App ](https://github.com/SudarshanDPrasad/Unit-3/tree/main/CodingTask/IndiaNews)
 
 - 🌱 I’m currently learning **Android Development**
 
